@@ -1,3 +1,9 @@
+#Code::Blocks Editor 
+*.layout
+*.depend
+bin/
+obj/
+
 # Prerequisites
 *.d
 
@@ -51,7 +57,3 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.layout
-*.depend
-bin/
-obj/
